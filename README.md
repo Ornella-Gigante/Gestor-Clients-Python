@@ -1,6 +1,9 @@
-Client Management Program
-Overview
-This Python program is from a Python course that I made from https://github.com/hektorprofe that  allows you to manage clients through a command-line interface and is designed to test basic Python skills. The program includes functionality to:
+# Client Management Program
+
+## Overview
+This Python program is from a Python course that I made from https://github.com/hektorprofe that  allows you to manage clients through a command-line interface and is designed to test basic Python skills. 
+
+## The program includes functionality to:
 
 List all clients.
 Search for a client by their ID (DNI).
@@ -10,10 +13,10 @@ Delete a client by DNI.
 Exit the program.
 The program operates with initial test data and does not save data to the disk, ensuring no two clients have the same DNI.
 
-Repository
+## Repository
 GitHub Repository
 
-Organization
+## Organization
 Folder Structure:
 
 Gestor de clientes/
