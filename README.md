@@ -1,8 +1,10 @@
 # Client Management Program
 
 ## Overview
-    This Python program is from a Python course that I made from https://github.com/hektorprofe that  allows you to manage clients through a command-line interface and is designed to test basic Python skills. 
 
+        This Python program is from a Python course that I made from hektorprofe's repository. The program allows you to manage clients through a command-line interface and is designed to test basic Python skills. 
+        Additionally, I've integrated FastAPI to provide a RESTful API for client management, allowing you to manage clients both via the CLI and API.
+        
 ## The program includes functionality to:
 
     List all clients.
@@ -13,9 +15,17 @@
     Exit the program.
     The program operates with initial test data and does not save data to the disk, ensuring no two clients have the same DNI.
 
-## Repository
 
-    GitHub Repository
+# FastAPI Integration:
+
+    
+    GET /clients: List all clients.
+    GET /clients/{dni}: Retrieve a specific client by their DNI.
+    POST /clients: Add a new client.
+    PUT /clients/{dni}: Update an existing client.
+    DELETE /clients/{dni}: Delete a client.
+    
+
 
 ## List all clients.
 
