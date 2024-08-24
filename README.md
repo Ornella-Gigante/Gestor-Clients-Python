@@ -101,3 +101,19 @@
       This project is licensed under the MIT License and belongs to @hektorprofe
       
       For more information, visit--->  https://github.com/hektorprofe
+
+
+
+
+# How does it look: 
+
+
+![Image_demo](https://github.com/Ornella-Gigante/Gestor-Clients-Python/blob/main/FastAPI.png)
+
+
+## Demo video:
+
+
+
+[Demo](https://github.com/Ornella-Gigante/Gestor-Clients-Python/blob/main/FastAPI.webm)
+
